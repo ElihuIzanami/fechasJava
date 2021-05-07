@@ -1,2 +1,2 @@
 # fechasJava
-Repo para web empresa ejemplo en php
+Comparador fecha java en años meses y dias de acuerdo a la fecha actual y tu fecha de nacimiento.
